@@ -1,3 +1,12 @@
-# Noime4ntr
+# NTRサポートで日本語入力を支援するNoime4ntr
 
-最新版は、[Releases](https://github.com/HiraokaHyperTools/Noime4ntr/releases)から、どうぞ。
+NTRサポートをご利用中のオペレータ様で、
+
+漢字キーの押下が転送されない問題で、「思い通りに日本語入力できない」といった悩みはございませんか。
+
+NTRサポートで日本語入力できるように支援する為の方法をご紹介致します。
+
+手順：
+
+* Noime4ntrプログラム(Windows版)を次の場所から入手し、導入致します。但し、非公式・非公認のソフトです。ご利用の際にはライセンス条項等に十分ご注意ください： https://github.com/HiraokaHyperTools/Noime4ntr/releases
+
